@@ -40,6 +40,7 @@ public class Activity5_Ramos {
        System.out.println("Final Product = " + facto);
        System.out.println(""); // To provide spacing
         
+       // This gives the term on the position var and prints it in a loop
 //        // 5.3 Arithmetic Sequence (Sum Only)
 //        int startNum = 1;
 //        int commonDiff = 5;
@@ -53,7 +54,7 @@ public class Activity5_Ramos {
 //        System.out.println(sumSeq);
         
         // 5.3 Arithmetic Sequence (Sum Only)
-       System.out.println("5.3 Arithmetic Sequence (Sum Only)");
+        System.out.println("5.3 Arithmetic Sequence (Sum Only)");
         System.out.print("5.3 Enter the First Term: ");        
         int startNum = input.nextInt();
         System.out.print("5.3 Enter the Common Difference: ");
